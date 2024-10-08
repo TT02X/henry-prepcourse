@@ -1,2 +1,2 @@
 # henry-prepcourse
-este es un oproyecto del modulo dos del prepcourse de henry
+esta es una prueba de como crear un repositorio en github y clonarlo desde mi computadora
